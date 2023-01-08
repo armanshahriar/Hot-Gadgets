@@ -1,0 +1,18 @@
+.buy-now-btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+.seeall{
+    color: orange;
+}
