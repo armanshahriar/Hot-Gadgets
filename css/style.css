@@ -11,11 +11,19 @@
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .seeall{
     color: orange;
 }
 .buy{
     margin: 0 auto;
+}
+.card{
+    border: none;
+    box-shadow: 5px 10px 10px lightgray;
+    border-radius: 10px;
+}
+.laptop{
+    margin-top: 100px;
 }
