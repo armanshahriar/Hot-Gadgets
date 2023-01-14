@@ -27,3 +27,14 @@ section {
 .laptop{
     margin-top: 100px;
 }
+.card{
+    margin-top: 10px;
+}
+.card>img{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.mar{
+    margin:50px 0;
+}
